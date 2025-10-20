@@ -1,5 +1,3 @@
-# 👨‍💻 BOOPATHIRAJAN S
-
 Hello! I'm Boopathirajan, a passionate **Java and Flutter developer** based in **Tiruppur**. I love crafting elegant and efficient solutions to complex problems. My journey in the world of software development began in college, and I'm currently sharpening my skills professionally at **JRK Consulting Service**.
 
 ---
