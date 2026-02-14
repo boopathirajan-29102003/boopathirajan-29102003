@@ -1,36 +1,79 @@
-# 👨‍💻 BOOPATHIRAJAN S
+# 👨‍💻 BOOPATHIRAJAN S  
 
-Hello! I'm Boopathirajan, a passionate **Java and Flutter developer** based in **Tiruppur**. I love crafting elegant and efficient solutions to complex problems. My journey in the world of software development began in college, and I have gained valuable experience at **JRK Consulting Service**.
+### 🚀 Java & Flutter Developer | Building Scalable & Elegant Solutions  
 
----
+Hello! I'm **Boopathirajan**, a passionate **Java & Flutter Developer** based in **Tiruppur, Tamil Nadu**.  
 
-## 📚 Education
+I specialize in developing scalable backend systems using **Spring Boot** and crafting high-performance cross-platform mobile applications using **Flutter**. I enjoy transforming complex problems into clean, efficient, and user-friendly solutions.
 
-- Completed **BE - Computer Science and Engineering**  
-  _Erode Sengunthar Engineering College_
-
----
-
-## 🌱 What I'm Currently Learning
-
-I'm always eager to learn and grow. Right now, I’m focused on:
-
-- ⚛️ Advanced **Flutter** development  
-- ☕ Backend development using **Java & Spring Boot**
+My journey into software development began during my college years, and since then, I’ve continuously improved my skills through real-world projects and professional experience.
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience  
 
-- **Java & Flutter Developer**  
-  _JRK Consulting Service_
+### 🏢 Java & Flutter Developer  
+**JRK Consulting Service**
+
+- Developed REST APIs using **Spring Boot**
+- Built cross-platform mobile applications using **Flutter**
+- Integrated backend services with frontend applications
+- Optimized performance and improved UI/UX
+- Worked on real-time billing and inventory management systems
 
 ---
 
-## 🤝 Let's Connect
+## 🎓 Education  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/boopathirajan2003/)  
-- 🌐 [Portfolio](http://boopathirajan.onrender.com/)
+**Bachelor of Engineering (BE)**  
+Computer Science and Engineering  
+_Erode Sengunthar Engineering College_
 
-Feel free to explore my repositories. Don’t hesitate to reach out if you have any questions or want to collaborate on a project.  
-**Happy coding! 🚀**
+---
+
+## 🛠️ Technical Skills  
+
+### 🔹 Frontend  
+- Flutter  
+- Dart  
+- Responsive UI Design  
+- GetX State Management  
+
+### 🔹 Backend  
+- Java  
+- Spring Boot  
+- REST API Development  
+- MySQL  
+
+### 🔹 Tools & Technologies  
+- Git & GitHub  
+- Postman  
+- Render Deployment  
+- MVC Architecture  
+
+---
+
+## 🌱 Currently Learning  
+
+- Advanced Flutter Architecture  
+- Microservices with Spring Boot  
+- System Design Concepts  
+- Performance Optimization  
+
+---
+
+## 🎯 Career Objective  
+
+To grow as a full-stack software engineer and contribute to building scalable enterprise applications and impactful digital products.
+
+---
+
+## 📫 Let's Connect  
+
+- 🔗 **LinkedIn**: [boopathirajan2003](https://www.linkedin.com/in/boopathirajan2003/)  
+- 🌐 **Portfolio**: [boopathirajan.onrender.com](http://boopathirajan.onrender.com/)  
+
+---
+
+⭐ Feel free to explore my repositories and connect with me for collaboration opportunities.  
+🚀 Always learning. Always building.
