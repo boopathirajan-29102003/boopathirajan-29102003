@@ -7,6 +7,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
@@ -25,8 +26,11 @@ My journey into software development began during my college years, and since th
 ### 🏢 Java & Flutter Developer — JRK Consulting Service
 
 - Developed **REST APIs** using Spring Boot for billing & inventory systems
-- Built cross-platform mobile applications using **Flutter**
-- Integrated backend services with frontend applications
+- Built cross-platform mobile applications using **Flutter** with **Bloc**, **Provider** & **GetX** state management
+- Integrated backend services with frontend applications using **JPA** for data persistence
+- Built desktop applications using **Java Swing**
+- Handled **Android & iOS app deployments** to Play Store and App Store
+- Integrated third-party SDKs — **Firebase (Notifications & Analytics)**, **AppsFlyer**, **Pine Labs**, **Microsoft Clarity**, and **Deep Links**
 - Optimized performance and improved **UI/UX** across applications
 - Worked on real-time **billing and inventory management** systems end-to-end
 
@@ -34,21 +38,50 @@ My journey into software development began during my college years, and since th
 
 ## 🛠️ Tech Stack
 
-### 🔹 Frontend
+### 🔹 Frontend (Mobile)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logoColor=white)
+![Flutter Bloc](https://img.shields.io/badge/Flutter_Bloc-8A2BE2?style=flat-square&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-0175C2?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-7B68EE?style=flat-square&logoColor=white)
+
+### 🔹 Frontend (Desktop)
+![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ### 🔹 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logoColor=white)
 
-### 🔹 Tools & Technologies
+### 🔹 Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+### 🔹 IDEs & Editors
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+
+### 🔹 Deployment
+![Android](https://img.shields.io/badge/Android_Deployment-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS_Deployment-000000?style=flat-square&logo=apple&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+### 🔹 Integrations
+![Firebase](https://img.shields.io/badge/Firebase_Notifications-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase Analytics](https://img.shields.io/badge/Firebase_Analytics-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![AppsFlyer](https://img.shields.io/badge/AppsFlyer-00B2FF?style=flat-square&logoColor=white)
+![Pine Labs](https://img.shields.io/badge/Pine_Labs-003087?style=flat-square&logoColor=white)
+![Deep Link](https://img.shields.io/badge/Deep_Links-FF6C37?style=flat-square&logoColor=white)
+
+### 🔹 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 ---
 
