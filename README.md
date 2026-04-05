@@ -29,7 +29,9 @@ My journey into software development began during my college years, and since th
 - Built cross-platform mobile applications using **Flutter** with **Bloc**, **Provider** & **GetX** state management
 - Integrated backend services with frontend applications using **JPA** for data persistence
 - Built desktop applications using **Java Swing**
+- Deployed backend applications on **Apache Tomcat** server
 - Handled **Android & iOS app deployments** to Play Store and App Store
+- Managed source code using **Git**, **GitHub** and **SVN** for version control
 - Integrated third-party SDKs — **Firebase (Notifications & Analytics)**, **AppsFlyer**, **Pine Labs**, **Microsoft Clarity**, and **Deep Links**
 - Optimized performance and improved **UI/UX** across applications
 - Worked on real-time **billing and inventory management** systems end-to-end
@@ -65,10 +67,15 @@ My journey into software development began during my college years, and since th
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
+### 🔹 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
+
 ### 🔹 Deployment
+![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
 ![Android](https://img.shields.io/badge/Android_Deployment-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS_Deployment-000000?style=flat-square&logo=apple&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 ### 🔹 Integrations
 ![Firebase](https://img.shields.io/badge/Firebase_Notifications-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -79,8 +86,6 @@ My journey into software development began during my college years, and since th
 ![Deep Link](https://img.shields.io/badge/Deep_Links-FF6C37?style=flat-square&logoColor=white)
 
 ### 🔹 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
